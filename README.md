@@ -3,7 +3,7 @@
 &nbsp; &nbsp; ... and this is just another devs github's profile 👋
 
 &nbsp; 
-| &nbsp; &nbsp;✨<br>**✨&nbsp; &nbsp; _Be kind, be polite and be objective!_&nbsp; &nbsp; ✨**<br>&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; ✨<br> |
+| &nbsp; &nbsp;✨ &nbsp; &nbsp; &nbsp;<br>**✨&nbsp; &nbsp; _Be kind, be polite and be objective!_&nbsp; &nbsp; ✨**<br>&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; ✨<br> |
 | ------------- |
 
 &nbsp; 
