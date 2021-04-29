@@ -27,7 +27,7 @@ Before opening an issue because of a typo, think of forking the repo, fixing the
 
 &nbsp; 
 &nbsp;
-### Just found this suprising ASCII-Art in source code
+### Just found this suprising ASCII-Art in Lucees source code
 The following ASCII-Art is a beautiful snippet taken from [Lucee Project](https://github.com/lucee/Lucee) and can be found [here](https://github.com/lucee/Lucee/blob/2156ca43c5549e552b0eca775cf294d3fd338f3d/ant/build-core.xml#L139) 
 
 ```bash         
