@@ -21,14 +21,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreasRu&show_icons=true&theme=radical)
 
 &nbsp; 
-&nbsp; 
-### My Coding Philosophy
-Before opening an issue because of a typo, think of forking the repo, fixing the text and pull requesting it right away.
-
-&nbsp; 
 &nbsp;
-### Just found this suprising ASCII-Art in Lucees source code
-The following ASCII-Art is a beautiful snippet taken from [Lucee Project](https://github.com/lucee/Lucee) and can be found [here](https://github.com/lucee/Lucee/blob/2156ca43c5549e552b0eca775cf294d3fd338f3d/ant/build-core.xml#L139) 
+### The following ASCII-Art is a beautiful snippet taken from [Lucee Project](https://github.com/lucee/Lucee) and can be found [here](https://github.com/lucee/Lucee/blob/2156ca43c5549e552b0eca775cf294d3fd338f3d/ant/build-core.xml#L139) 
 
 ```bash         
           `@@@@                                                               
