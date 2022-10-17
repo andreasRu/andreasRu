@@ -10,7 +10,7 @@
 &nbsp; 
 ### About me...
 - I'm married to an incredible wife and father of a wonderful son ❤️.
-- I’m currently working on own stuff and I like [contributing](https://github.com/pulls?q=is%3Apr+author%3AandreasRu+archived%3Afalse+is%3Aclosed) to a selection of projects around awesome [Lucee CFML Servlet Engine](https://github.com/lucee/Lucee)🚀 whenever I have time.
+- I’m currently working on own stuff and I like [contributing](https://github.com/pulls?q=is%3Apr+author%3AandreasRu+archived%3Afalse+is%3Aclosed) (need to be logged into Github to view) to a selection of projects around awesome [Lucee CFML Servlet Engine](https://github.com/lucee/Lucee)🚀 whenever I have time.
 - I love Coldfusion Markup Language ( CFML ) and always enjoy [helping others](https://dev.lucee.org/u/andreas/summary) with installation or [development](https://stackoverflow.com/users/2645359/andreasru) issues whenever I can. It's very pleasing to see their excitement whenever they resolve their issues.
 - Whenever I can I try creating easy but solid proof step by step Lucee Installation Guides (e.g. for [Ubuntu 20.04 LTS](https://www.youtube.com/watch?v=Hk9mbHWFGvQ&list=PLk5a6z4LgytWw41VjPn6MNCVkYY62_yZC) or [Windows Server 2019](https://www.youtube.com/watch?v=kTilVJgN1_o&list=PLk5a6z4LgytUZw9gJX0n7QGt8__GLBAnf) )
 - I know my code is not the best and definitely not the cleanest, but I give my best to get better every day.
