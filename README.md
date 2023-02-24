@@ -9,7 +9,7 @@
 &nbsp; 
 &nbsp; 
 ### About me...
-- Over 20 years architecting and mantaining a CFML driven legacy plattform
+- Over 20 years architecting and maintaining a CFML driven legacy plattform
 - 10 years of experience with Lucee (and Railo before it was forked)
 - Since 2019 [contributing](https://github.com/pulls?q=is%3Apr+author%3AandreasRu+archived%3Afalse+is%3Aclosed) (need to be logged into Github to view) to a selection of projects around awesome [Lucee CFML Servlet Engine](https://github.com/lucee/Lucee)🚀 whenever I have time.
 - I always enjoy [helping others](https://dev.lucee.org/u/andreas/summary) with installation or [development](https://stackoverflow.com/users/2645359/andreasru) issues whenever I can. It's very pleasing to see their excitement whenever they resolve their issues.
