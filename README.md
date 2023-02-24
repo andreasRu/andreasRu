@@ -1,4 +1,4 @@
-A### Hi, I'm Andreas ...
+### Hi, I'm Andreas ...
 
 &nbsp; &nbsp; ... and this is just another devs github's profile 👋
 
@@ -11,7 +11,7 @@ A### Hi, I'm Andreas ...
 ### About me...
 - Over 20 years architecting and maintaining a CFML driven legacy plattform
 - 10 years of experience with Lucee (aka Railo before it was forked)
-- Since 2019 [contributing](https://github.com/pulls?q=is%3Apr+author%3AandreasRu+archived%3Afalse+is%3Aclosed) (need to be logged into Github to view) to a selection of projects around awesome [Lucee CFML Servlet Engine](https://github.com/lucee/Lucee)🚀 whenever I have time.
+- Since 2020 [contributing](https://github.com/pulls?q=is%3Apr+author%3AandreasRu+archived%3Afalse+is%3Aclosed) (need to be logged into Github to view) to a selection of projects around awesome [Lucee CFML Servlet Engine](https://github.com/lucee/Lucee)🚀 whenever I have time.
 - I always enjoy [helping others](https://dev.lucee.org/u/andreas/summary) with installation or [development](https://stackoverflow.com/users/2645359/andreasru) issues whenever I can.
 - Whenever I can I try creating easy but solid proof step by step Lucee Installation Guides (e.g. for [Ubuntu 20.04 LTS](https://www.youtube.com/watch?v=Hk9mbHWFGvQ&list=PLk5a6z4LgytWw41VjPn6MNCVkYY62_yZC) or [Windows Server 2019](https://www.youtube.com/watch?v=kTilVJgN1_o&list=PLk5a6z4LgytUZw9gJX0n7QGt8__GLBAnf) )
 
